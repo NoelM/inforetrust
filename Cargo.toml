@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 patricia_tree = "0.1.8"
+rocket = "0.4.2"

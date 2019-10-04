@@ -1,4 +1,4 @@
-# InfoRetRust
+# Posting 
 The informatation retrieval basics in Rust
 
 ## Features

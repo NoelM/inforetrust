@@ -5,4 +5,5 @@ use patricia_tree::PatriciaMap;
 fn main() {
     let mut pmap = PatriciaMap::new();
     pmap.insert("foo", 1);
+    launch();
 }
