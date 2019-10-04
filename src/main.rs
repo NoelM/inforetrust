@@ -1,3 +1,8 @@
+extern crate patricia_tree;
+
+use patricia_tree::PatriciaMap;
+
 fn main() {
-    println!("Hello, world!");
+    let mut pmap = PatriciaMap::new();
+    pmap.insert("foo", 1);
 }
